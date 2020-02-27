@@ -1,0 +1,6 @@
+<download name="MapChunk0" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="500468" md5="fe2cf12be590da59b14facb1faa80093"/>
+ </files>
+</download>

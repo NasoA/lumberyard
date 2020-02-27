@@ -1,0 +1,4 @@
+[2020-02-26T12:54:10] [1808:5332:20200226,125410.060:ERROR main.cpp:27] Initializing windows crash uploader
+[2020-02-26T13:56:32] [13712:11148:20200226,135632.721:ERROR main.cpp:27] Initializing windows crash uploader
+[2020-02-26T13:56:34] [15632:19792:20200226,135634.545:ERROR main.cpp:27] Initializing windows crash uploader
+[2020-02-27T17:28:38] [16068:17036:20200227,172838.452:ERROR main.cpp:27] Initializing windows crash uploader

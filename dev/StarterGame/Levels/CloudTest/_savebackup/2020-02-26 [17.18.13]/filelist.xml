@@ -1,0 +1,6 @@
+<download name="CloudTest" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="39282" md5="a3c741d5600f8b86b468f9b9d2aba2e5"/>
+ </files>
+</download>
